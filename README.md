@@ -3,5 +3,8 @@
  
  Furthermore, this also will fit theoretical Planck blackbody spectrums to experimentally found blackbody spectrums, and then provide the Planck temperature. You can also calculate the Wien temperature with this class.
  
- Further documentation to come...
+I am aware that so far the documentation for this is fairly weak, but I will be fixing that in the near future.
+ 
+ ## Dependencies
+ This library depends on `SciPy`, `NumPy`, and `matplotlib`.
  
